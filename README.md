@@ -24,6 +24,7 @@ as listed below.
 simplenet/simplenet\*.ipynb: The Simplenet CNNs based on TECO’s suggested architecture
 
 #### Stacknet
+stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its performance
 
 #### Mutinet
 
