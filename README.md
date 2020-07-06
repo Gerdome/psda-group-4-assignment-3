@@ -18,6 +18,8 @@ Dataframe_preparation.ipynb: Data preprocessing (as provided by TECO/Kinemic)
 
 ### Data Exploration:
 
+Exploration.ipynb: The data exploration
+
 ### CNNs:
 
 #### Simplenet
