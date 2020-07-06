@@ -8,7 +8,12 @@ Python requirements are listed in requitements.txt
 
 ## Contents
 
-### Data Explration:
+
+### Data Pre-Processing:
+
+(As Provided by TECO)
+
+### Data Exploration:
 
 ### CNNs:
 
