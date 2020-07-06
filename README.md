@@ -6,6 +6,9 @@ Praktikum Smart Data Analystics, Assignement 3 in Sommersemester 2020.
 All scripts are provided in the form of Juypter Notebooks.
 Python requirements are listed in requitements.txt
 
+An overview is given in the presentation slides in this repository as well 
+as listed below.
+
 ## Contents
 
 
