@@ -18,6 +18,9 @@ Dataframe_preparation.ipynb: Data preprocessing (as provided by TECO/Kinemic)
 
 ### Data Exploration:
 
+exploration/Exploration.ipynb: Basic data exploration
+exploration/RTLS_Exploration.ipynb: Further exploration or RTLS sensor data.
+
 ### CNNs:
 
 #### Simplenet
