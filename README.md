@@ -4,7 +4,7 @@ This repository contains all documents and programs created by group 4 for
 Praktikum Smart Data Analystics, Assignement 3 in Sommersemester 2020.
 
 All scripts are provided in the form of Juypter Notebooks.
-Python requirements are listed in requitements.txt. Data is *by each notebooks* expected at the relative location ./Csv_data/all.csv.
+Python requirements are listed in requitements.txt. Data is *by each notebook* expected at the relative location ./Csv_data/all.csv.
 
 An overview is given in the presentation slides in this repository as well 
 as listed below.
