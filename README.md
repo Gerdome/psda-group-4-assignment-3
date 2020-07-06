@@ -20,11 +20,26 @@ as listed below.
 
 ### CNNs:
 
+*Simplenet*
+simplenet/simplenet\*.ipynb: The Simplenet CNNs based on TECO’s suggested architecture
+
+*Stacknet*
+
+*Mutinet*
+
+*Sepnet*
+
+*Deepnet*
+
 ### RNN:
+
+*LSTM*
 
 ### Random Forest:
 
 ### Other Experiments:
+
+*Hybridnet*
 
 ### Summary and Further Documents:
 
