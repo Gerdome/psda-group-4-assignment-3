@@ -14,20 +14,22 @@ as listed below.
 
 ### Data Pre-Processing:
 
-Dataframe_preparation.ipynb: Data preprocessing (as provided by TECO/Kinemic)
+- Dataframe_preparation.ipynb: Data preprocessing (as provided by TECO/Kinemic)
 
 ### Data Exploration:
 
-exploration/Exploration.ipynb: Basic data exploration
-exploration/RTLS_Exploration.ipynb: Further exploration or RTLS sensor data.
+- exploration/Exploration.ipynb: Basic data exploration
+- exploration/RTLS_Exploration.ipynb: Further exploration or RTLS sensor data.
 
 ### CNNs:
 
 #### Simplenet
-simplenet/simplenet\*.ipynb: The Simplenet CNNs based on TECO’s suggested architecture
+
+- simplenet/simplenet\*.ipynb: The Simplenet CNNs based on TECO’s suggested architecture
 
 #### Stacknet
-stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its performance
+
+- stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its performance
 
 #### Mutinet
 
@@ -41,15 +43,15 @@ stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its pe
 
 ### Random Forest:
 
-random forest/RF\*.ipynb: The Random Forest classifiers applied to the data set
+- random forest/RF\*.ipynb: The Random Forest classifiers applied to the data set
 
 ### Other Experiments:
 
 #### Hybridnet
 
-hybridnet.ipynb: An experimental setup combining the classification results of two models, slightly improving performance
+- hybridnet.ipynb: An experimental setup combining the classification results of two models, slightly improving performance
 
 ### Summary and Further Documents:
 
-slides presentation.pdf: Main presentation slides from July 6th 2020
-model performance.xlsx, model performance compact.png: Overview of model performance
+- slides presentation.pdf: Main presentation slides from July 6th 2020
+- model performance.xlsx, model performance compact.png: Overview of model performance
