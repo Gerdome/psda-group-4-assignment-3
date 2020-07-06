@@ -21,6 +21,6 @@ Python requirements are listed in requitements.txt
 
 ### Random Forest:
 
-### Other Experiments
+### Other Experiments:
 
-### Summary and Further Documents
+### Summary and Further Documents:
