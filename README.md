@@ -40,7 +40,9 @@ stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its pe
 
 ### Other Experiments:
 
-*Hybridnet*
+#### Hybridnet
+
+hybridnet.ipynb: An experimental setup combining the classification results of two models, slightly improving performance
 
 ### Summary and Further Documents:
 
