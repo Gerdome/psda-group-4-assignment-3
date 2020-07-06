@@ -29,3 +29,4 @@ as listed below.
 ### Summary and Further Documents:
 
 slides presentation.pdf: Main presentation slides from July 6th 2020
+model performance.xlsx, model performance compact.png: Overview of model performance
