@@ -38,6 +38,8 @@ stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its pe
 
 ### Random Forest:
 
+random forest/RF\*.ipynb: The Random Forest classifiers applied to the data set
+
 ### Other Experiments:
 
 #### Hybridnet
