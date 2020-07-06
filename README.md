@@ -32,7 +32,7 @@ stacknet.ipynb: The Stacknet CNN built of Simplenet layers, to improve on its pe
 
 #### Deepnet
 
-### RNN:
+### RNNs:
 
 #### LSTM
 
