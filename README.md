@@ -33,13 +33,25 @@ as listed below.
 
 #### Mutinet
 
+- multinet.ipynb: The Multinet CNN seperating body sensors and RTLS. This notebook is commented and contains the best performing version (M2-25).
+- M1, M2, M3: Other versions of the Multinet architecture.
+- M2-25 P{1,2,3,4,5}.html: Results for different test proband split.
+
 #### Sepnet
 
+- S1.ipynb: The Sepnet CNN seperating the different sensors. For comments on the pipeline, please look at the multinet notebook.
+- S2.ipynb, S3.ipynb: Additional versions of the sepnet architecture.
+
 #### Deepnet
+
+- multinet/deepnet.ipynb: The Deepnet CNN, a deep version of multinet.
 
 ### RNNs:
 
 #### LSTM
+
+- LSTM_SeqToOne.ipynb: Sequence to One LSTM architecture.
+- LSTM_SeqToSeq.ipynb: Sequence to Sequence LSTM architecture.
 
 ### Random Forest:
 
